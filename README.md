@@ -10,7 +10,7 @@ Este repositorio contiene scripts y notebooks desarrollados para artículos téc
 - **Copiar contenido de un Data Lake a un Lakehouse**
 - **Automatización de arquitecturas Medallion con Semantic Link**
 
-### ⚙️ Scripts (`/microsoft-fabric/scripts`)
+### ⚙️ Powershell (`/microsoft-fabric/powershell`)
 - **Automatización de arquitectura Medallion con PowerShell y API de Microsoft Fabric**
 
 
