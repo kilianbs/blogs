@@ -9,6 +9,7 @@ Este repositorio contiene scripts y notebooks desarrollados para artículos téc
 - **Obtener configuraciones de sesión de Spark**
 - **Copiar contenido de un Data Lake a un Lakehouse**
 - **Automatización de arquitecturas Medallion con Semantic Link**
+- **Cuantos datos están siendo almacenados en OneLake**
 
 ### ⚙️ Powershell (`/microsoft-fabric/powershell`)
 - **Automatización de arquitectura Medallion con PowerShell y API de Microsoft Fabric**
